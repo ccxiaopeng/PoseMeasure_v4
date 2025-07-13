@@ -1,0 +1,8 @@
+删除多余的参数调整
+
+分辨率 res_combobox
+闪光灯 flashlight_h
+曝光模式切换
+亮度 AE_horizontalSlider
+抗频闪 flicker_checkBox  50Hz  60Hz
+查表映射变换gamma  contrast
